@@ -1,5 +1,4 @@
 # problem-proof-reader
-python files for the Problem Proof Reader project
 
 Hello! This is the ProblemProofReader, my first coding project, aimed at 
 serving writers--novelists, columnists, bloggers, but also anyone writing a cover 
